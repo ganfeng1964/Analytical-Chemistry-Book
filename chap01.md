@@ -1,3 +1,5 @@
+
+
 # Chapter 1
 
 # Introduction
@@ -18,6 +20,30 @@ This experiment was pivotal because it disproved the then-prevailing phlogiston 
 
 
 
-## 1.2 Definition of analytical chemistry
+## 1.2 A definition of analytical chemistry
+
+There are a lot of definitions of analytical chemistry. Here, we only provide the one from the department of analytical chemistry of European Federation.
+
+> Analytical chemistry is the science that investigates the development and application of methods, instruments and strategies to find the composition of materials. 
+
+Above seemingly simple definition captures a comprehensive and nuanced aspect of analytical chemistry. It emphasizes not just the identification (qualitative analysis) and quantification (quantitative analysis) of material composition, which is central to traditional definitions, but also highlights the dynamic and innovative nature of the field. Now let's take a closer look at its key components:
+
+1. **Science of Investigation**: This positions analytical chemistry within the scientific realm of systematic investigation and empirical inquiry. It's not just about applying known techniques; it's about actively exploring and understanding materials. 
+
+2. **Development of Methods**: Analytical chemistry is continuously evolving, with ongoing research and development of new methods. This encompasses creating more accurate, sensitive, and efficient ways to analyze materials. 
+
+3. **Application of Instruments**: The field heavily relies on various instruments, ranging from basic tools like pH meters to advanced devices like mass spectrometers and nuclear magnetic resonance (NMR) spectrometers. This underscores the technical and technological aspects of analytical chemistry. 
+
+4. **Strategies for Analysis**: This points to the planning, designing, and implementing of analytical procedures. It's not just about the "how" but also about the "why" and the "when" of using specific analytical methods.
+
+5. **Finding Composition of Materials**: At its core, analytical chemistry seeks to determine what substances are present in a sample (qualitative analysis) and in what amount (quantitative analysis). This is crucial across a myriad of sectors, including pharmaceuticals, environmental science, and forensics.
+
+In the perspective of European Federation, the definition reflects the viewpoint and standards of a significant scientific body in Europe, suggesting a harmonized and advanced approach to analytical chemistry in the context of European research and industry standards.This definition underscores analytical chemistry as a dynamic, evolving discipline that is fundamental to both scientific understanding and practical applications in various industries.
+
+The definition is a very nice one. However, it may be overly optimistic about analytical chemistry. It should be noted that the widespread application of instruments has indeed promoted the development of analytical chemistry, but from another perspective, it has also brought a "survival" crisis to analytical chemistry. Due to many instruments being based on physical principles, modern analytical chemistry is more like physical analysis. This is an undeniable fact. What should analytical chemistry rely on to reserve its position as an unique discipline?
+
+In history, there was a period when many universities abolished the speciality of analytical chemistry. The reason is surprisingly that analytical chemistry was merely a speciality that only applies the theory of chemistry and physics. Analytical chemistry has indeed done a lot of scientific explorations, but can it be recognized as a science widely recognized by the scientific community based on this? 
 
 ## 1.3 Is analytical chemistry a science?
+
+
