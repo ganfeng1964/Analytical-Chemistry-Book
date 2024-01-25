@@ -1,5 +1,3 @@
-
-
 # Chapter 1
 
 # Introduction
@@ -16,17 +14,21 @@ In 1774, Antoine-Laurent de Lavoisier started his approaches on the theory of ph
 
 Among Lavoisier's experiments, the most significant one was the burning of mercury in air. He placed a certain amount of mercury in a retort and heated it. The retort had a limited amount of air. He heated the retort to about 350°C for about twelve days. He found that mercury turned into red solid (now we know it is HgO). Then, Lavoisier took a crucial step: he took out of red solid and heated it again. He found that the red solid turned back into mercury by releasing a gas. He collected the released gas and found it has combustibility. He named the gas the "oxygen" and believed it was essential for combustion. 
 
-This experiment was pivotal because it disproved the then-prevailing phlogiston theory. Lavoisier's findings laid the foundation of quantitative analysis. Balance becomes the essential tool in finding new substances, establishing principals of chemical reactions, and leading to the development of the concept of chemical elements and compounds. 
+This experiment was pivotal because it disproved the then-prevailing phlogiston theory. Lavoisier's findings laid the foundation of quantitative analysis. Balance becomes the essential tool in finding new substances, establishing principals of chemical reactions, and leading to the development of the concept of chemical elements and compounds. It is not an exaggeration to say that modern chemistry was established based on the development of quantitative analysis.
+
+Currently, analytical chemistry has become a vast discipline and been equipped with various advanced analytical instruments. Unlike other branches of chemistry focused on synthesis or theory, analytical chemistry is primarily concerned with the practical aspects of what matter is made of, how much of it is there, and how its components interact with each other. This field is fundamental in both academic research and various industries, underpinning innovations and quality control in pharmaceuticals, environmental monitoring, food safety, and many other areas. 
+
+As a matter of fact, analytical chemistry has been integrated into all aspects of human activity in a subtle and silent way: although you may not feel its existence, it is right beside you. When you click on this text with your mouse, do you know if the lead content in the mouse you are using exceeds the limit? Don't worry, analytical chemistry has solved these problems for you.
 
 
 
 ## 1.2 A definition of analytical chemistry
 
-There are a lot of definitions of analytical chemistry. Here, we only provide the one from the department of analytical chemistry of European Federation.
+You should have read the above contents, I guess you haven't really understood what analytical chemistry is. People always like to make something more clear by setting a definition on it. There are a lot of definitions of analytical chemistry. Here, we only provide the one from the department of analytical chemistry of European Federation.
 
 > Analytical chemistry is the science that investigates the development and application of methods, instruments and strategies to find the composition of materials. 
 
-Above seemingly simple definition captures a comprehensive and nuanced aspect of analytical chemistry. It emphasizes not just the identification (qualitative analysis) and quantification (quantitative analysis) of material composition, which is central to traditional definitions, but also highlights the dynamic and innovative nature of the field. Now let's take a closer look at its key components:
+This seemingly simple definition captures a comprehensive and nuanced aspect of analytical chemistry. It emphasizes not just the identification (qualitative analysis) and quantification (quantitative analysis) of material composition, which is central to traditional definitions, but also highlights the dynamic and innovative nature of the field. Now let's take a closer look at its key components:
 
 1. **Science of Investigation**: This positions analytical chemistry within the scientific realm of systematic investigation and empirical inquiry. It's not just about applying known techniques; it's about actively exploring and understanding materials. 
 
@@ -46,4 +48,6 @@ In history, there was a period when many universities abolished the speciality o
 
 ## 1.3 Is analytical chemistry a science?
 
+The term science is already a term that cannot be further popularized. It is not an exaggeration to say that the term science has become a popular pet phrase among the public. Any profession that adopts certain scientific technologies dares to call itself a science. For example, "face job" had become "beauty science". Some people who have undergone short-term training dare to use knives on others' faces, of course, I mean using some seemingly high-tech tools. Of course, doing so would be much better than having a butcher do it. Just kidding!
 
+  
