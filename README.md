@@ -2,7 +2,7 @@
 
 ## Preface
 
-This is personal project that focus on writing a book on Analytical Chemistry in English. The reasons are as followings:
+This is a personal project that focus on writing a book on Analytical Chemistry in English. The reasons are as followings:
 
 1. I have been learning English for many many .... years, but I always struggle to write good enough English stuffs. 
 
