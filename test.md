@@ -4,8 +4,6 @@ $$
 \mathrm{HCl(aq) + NaOH(aq) = NaCl(aq) + H_{2}O(l) }
 $$
 
-
-
 $$
 \begin{align*}
  a &= b \tag{4.72} \\
@@ -14,4 +12,6 @@ $$
 \end{align*}
 $$
 
+---
 
+![test image](assets/elements-of-chemistry.jpg)
