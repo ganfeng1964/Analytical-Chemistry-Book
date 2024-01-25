@@ -20,8 +20,6 @@ Currently, analytical chemistry has become a vast discipline and been equipped w
 
 As a matter of fact, analytical chemistry has been integrated into all aspects of human activity in a subtle and silent way: although you may not feel its existence, it is right beside you. When you click on this text with your mouse, do you know if the lead content in the mouse you are using exceeds the limit? Don't worry, analytical chemistry has solved these problems for you.
 
-
-
 ## 1.2 A definition of analytical chemistry
 
 You should have read the above contents, I guess you haven't really understood what analytical chemistry is. People always like to make something more clear by setting a definition on it. There are a lot of definitions of analytical chemistry. Here, we only provide the one from the department of analytical chemistry of European Federation.
@@ -50,4 +48,22 @@ In history, there was a period when many universities abolished the speciality o
 
 The term science is already a term that cannot be further popularized. It is not an exaggeration to say that the term science has become a popular pet phrase among the public. Any profession that adopts certain scientific technologies dares to call itself a science. For example, "face job" had become "beauty science". Some people who have undergone short-term training dare to use knives on others' faces, of course, I mean using some seemingly high-tech tools. Of course, doing so would be much better than having a butcher do it. Just kidding!
 
-  
+As a scientist who teaches analytical chemistry, I have always believed that analytical chemistry is a science until I once listened to Professor Ruqin Yu's report titled "Chemometrics-assisted Mathematization and Informatization of Analytical Chemistry and Emergence of New Research Paradigm". It exposed me to the philosopher Kant's views on science. In Kant's view, a discipline can only be regarded as a science proper if it has been mathematized. And, Kant thought "...chemistry can’t be anything more than a systematic art or experimental doctrine, never a science proper, because the principles of chemistry are merely empirical and can’t be presented a priori in intuition...". Among modern scientists, there are also many who believe that chemistry cannot become an independent (separate) discipline, and some scientists are even more extreme. For example, Dirac said "The underlying laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that exact applications of these laws lead to equations which are too complicated to be soluble." So, if chemistry cannot even become a science, let alone analytical chemistry. Analytical chemistry is simply an existence of "neither fish nor fowl" (“爹不亲娘不爱”）
+
+
+
+
+
+---
+
+**References**
+
+Yu, R. Q. Proceeding of International Conference on Analytical Science; Chinese Chemical Society and International Union of Pure and Applied
+
+Chemistry: Beijing, 2017.
+
+Kant, I. The Metaphysical Foundation of Natural Science; Translator Bax, E. B.; Createspace Independent Publishing Platform: USA, 2015.
+
+Dirac, P. A. M. Proc. R. Soc. London, Ser. A 1929, 123, 714.  
+
+
