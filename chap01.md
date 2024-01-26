@@ -50,20 +50,24 @@ The term science is already a term that cannot be further popularized. It is not
 
 As a scientist who teaches analytical chemistry, I have always believed that analytical chemistry is a science until I once listened to Professor Ruqin Yu's[^1] report titled "Chemometrics-assisted Mathematization and Informatization of Analytical Chemistry and Emergence of New Research Paradigm". It exposed me to the philosopher Kant's[^2] views on science. In Kant's view, a discipline can only be regarded as a science proper if it has been mathematized. And, Kant thought "...chemistry can’t be anything more than a systematic art or experimental doctrine, never a science proper, because the principles of chemistry are merely empirical and can’t be presented a priori in intuition...". Among modern scientists, there are also many who believe that chemistry cannot become an independent (separate) discipline, and some scientists are even more extreme. For example, Dirac[^3] said "The underlying laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that exact applications of these laws lead to equations which are too complicated to be soluble." So, if chemistry cannot even become a science, let alone analytical chemistry. Analytical chemistry is simply an existence of "neither fish nor fowl" (“爹不亲娘不爱”）
 
-Professor Yu suggested implementing the mathematization of analytical chemistry based on chemometrics and proposed several paradigms. I think this path is not feasible. The reason is that chemometrics methods are essentially based on calibration techniques, which are themselves relative methods. These methods are fundamentally no longer based on the theory of chemical reactions, although they involve chemical reactions. Due to the fact that these methods are more based on instrumental analysis methods, which are essentially based on physical principles, using chemometrics theory to achieve the mathematization of analytical chemistry feels like “barking up the wrong tree”（缘木求鱼）. My view is not disrespectful because I myself study chemometrics.
+Professor Yu suggested implementing the mathematization of analytical chemistry based on chemometrics and proposed several paradigms. I think this path is not feasible. The reason is that chemometrics methods are essentially based on calibration techniques, which are themselves relative methods. These methods are fundamentally no longer based on the theory of chemical reactions, although they involve chemical reactions. Due to the fact that these methods are more based on instrumental analysis methods, which are essentially based on physical principles, using chemometrics theory to achieve the mathematization of analytical chemistry feels like “barking up the wrong tree”（缘木求鱼）. My view is not disrespectful because my own major is also chemometrics.
+
+In my opinion, the correct path is still to return to classical analytical chemistry. The in-depth exploration the theories of quantitative analysis is the key to success. In fact, the classic quantitative analysis methods themselves are absolute analysis because they can all be traced back to the gravimetry. The theory it establishes is also purely mathematical. Unfortunately, the classic quantitative analysis methods rely color indicators to determine the equivalence point, which makes them look more like an art rather than a science. Even worse, the introduction of indicators fundamentally changes the independence of the system. In theory and practice, indicators are involved in chemical reactions, and the classic methods have been letting a guy who is both an athlete and a referee manipulate them. 
+
+We recently published a paper and established a pure mathematical theory for quantitative analysis[^4]. We obtained the mathematical expression for the maximum concentration of the reaction product and proved that it can serve as a basis for quantitative analysis. Our work indicates that the mathematization of chemical quantitative analysis has been preliminarily achieved. Thus, at least, quantitative analysis can be taken as a science.
+
+## 1.4 What is in this e-book?
 
 
 
 ---
 
-
-
-
-
 **References**
 
-[^1]: Yu, R. Q. Proceeding of International Conference on Analytical Science; Chinese Chemical Society and International Union of Pure and Applied Chemistry: Beijing, 2017.
+1. Yu, R. Q. Proceeding of International Conference on Analytical Science; Chinese Chemical Society and International Union of Pure and Applied Chemistry: Beijing, 2017.
 
-[^2]: Kant, I. The Metaphysical Foundation of Natural Science; Translator Bax, E. B.; Createspace Independent Publishing Platform: USA, 2015.
+2. Kant, I. The Metaphysical Foundation of Natural Science; Translator Bax, E. B.; Createspace Independent Publishing Platform: USA, 2015.
 
-[^3]: Dirac, P. A. M. Proc. R. Soc. London, Ser. A 1929, 123, 714.
+3. Dirac, P. A. M. Proc. R. Soc. London, Ser. A 1929, 123, 714.
+
+4. Gan, F.; Chu, Y. X.; Yang, W. L. Hard modeling of titration curve for absolute analysis, Chemom. Intell. Lab. Syst. 2020, 203, 104069.
