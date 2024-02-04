@@ -11,3 +11,13 @@ This is a personal project that focus on writing a book on Analytical Chemistry 
 3. I want to force myself to become a Git user. I will include some Julia codes in the book, but don't expect them to be perfect ones.  
 
 4. I want to write a book in my own way. Just for fun.
+
+---
+
+## Support me?
+
+BUY MY BOOK.
+
+![](assets/GFACCover.jpeg)
+
+

@@ -14,6 +14,15 @@ In 1774, Antoine-Laurent de Lavoisier started his approaches on the theory of ph
 
 Among Lavoisier's experiments, the most significant one was the burning of mercury in air. He placed a certain amount of mercury in a retort and heated it. The retort had a limited amount of air. He heated the retort to about 350°C for about twelve days. He found that mercury turned into red solid (now we know it is HgO). Then, Lavoisier took a crucial step: he took out of red solid and heated it again. He found that the red solid turned back into mercury by releasing a gas. He collected the released gas and found it has combustibility. He named the gas the "oxygen" and believed it was essential for combustion. 
 
+---
+
+![Lavoisier](assets/Antoine-Laurent-de-Lavoisier.jpg)
+---
+
+Antoine Laurent de Lavoisier
+
+---
+
 This experiment was pivotal because it disproved the then-prevailing phlogiston theory. Lavoisier's findings laid the foundation of quantitative analysis. Balance becomes the essential tool in finding new substances, establishing principals of chemical reactions, and leading to the development of the concept of chemical elements and compounds. It is not an exaggeration to say that modern chemistry was established based on the development of quantitative analysis.
 
 Currently, analytical chemistry has become a vast discipline and been equipped with various advanced analytical instruments. Unlike other branches of chemistry focused on synthesis or theory, analytical chemistry is primarily concerned with the practical aspects of what matter is made of, how much of it is there, and how its components interact with each other. This field is fundamental in both academic research and various industries, underpinning innovations and quality control in pharmaceuticals, environmental monitoring, food safety, and many other areas. 
