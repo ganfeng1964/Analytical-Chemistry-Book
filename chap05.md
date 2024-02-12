@@ -30,8 +30,6 @@ Acid-base titration has evolved significantly from its early rudimentary forms t
 
 The Brønsted-Lowry theory defines acids and bases in terms of their ability to donate or accept protons ($\mathrm{H^{+}}$ ions). According to the theory, an acid is a substance that can donate a proton to another substance, while a base is a substance that can accept a proton. This definition yields an interesting result: when an acid donates a proton, it becomes a base, which in turn has a tendency to accept a proton and become the original acid. Similar situation also occurs with bases. In order to make this definition self consistent, they introduced the concept of conjugate acid-base pairs. When an acid donates a proton, it becomes a base, known as the conjugate base of the original acid. Similarly, when a base accepts a proton, it becomes an acid, known as the conjugate acid of the original base. For example, in aqueous solution of acetic acid, there exists the following equilibrium:
 
-
-
 $$
 \underset{\mathrm{acid}}{\mathrm{CH_3COOH}}\mathrm{(aq)} ~~+~~ 
 \underset{\mathrm{base}}{\mathrm{H_2O}}\mathrm{(l)}  
@@ -39,8 +37,6 @@ $$
 \underset{\mathrm{conjugate~base}}{\mathrm{CH_3COO^{-} }}\mathrm{(aq)} ~~+~~ 
 \underset{\mathrm{conjugate~acid}}{\mathrm{H_3O^{+} }} \mathrm{(aq)}
 $$
-
-
 
 Here, acetic acid and acetate ion are a conjugate acid-base pair. General expression is as follows:
 
@@ -130,7 +126,7 @@ Equation (5.4) tells us an extremely important reality that there is no need to 
 
 $$
 \mathrm{ HCl(aq) } + \mathrm{H_2O(l) } 
-~~\xrightleftharpoons{~~~}~~
+~~\xrightleftharpoons{~}{~} ~~
 \mathrm{Cl^{-}(aq)} + \mathrm{H_{3}O^{+}(aq)} 
 $$
 
@@ -204,8 +200,6 @@ Thus, defining all substances as acids is feasible. And all we need to do is to 
 ### 5.8.1 Measuring of nitrogen in organic
 
 ### 5.8.2 Measuring of nitrogen in ammonium salts
-
-
 
 ## 5.9 The Influence of Carbon Dioxide
 
