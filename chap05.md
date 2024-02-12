@@ -33,7 +33,7 @@ The Brønsted-Lowry theory defines acids and bases in terms of their ability to 
 $$
 \underset{\mathrm{acid}}{\mathrm{CH_3COOH}}\mathrm{(aq)} ~~+~~ 
 \underset{\mathrm{base}}{\mathrm{H_2O}}\mathrm{(l)}  
-~~\xrightleftharpoons{~~~}~~ 
+~~=~~ 
 \underset{\mathrm{conjugate~base}}{\mathrm{CH_3COO^{-} }}\mathrm{(aq)} ~~+~~ 
 \underset{\mathrm{conjugate~acid}}{\mathrm{H_3O^{+} }} \mathrm{(aq)}
 $$
@@ -51,7 +51,7 @@ The theory is very perfect because there can be no more logical and practical co
 The ability of acid to provide protons is characterized by the acid dissociation constant. This constant is essentially the equilibrium constant at which acid dissociation reaches equilibrium. When an acid $\mathrm{HB}$ is dissolved in water, following equilibrium will be reached:
 
 $$
-\mathrm{HB(aq) + H_2O(l) ~~\xrightleftharpoons{~~~}~~ 
+\mathrm{HB(aq) + H_2O(l) ~~=~~ 
 B^{-}(aq) + H_{3}O^{+}(aq)   }
 $$
 
@@ -89,7 +89,7 @@ The reverse process of  $\mathrm{B^{-}}$ can be described in following:
 
 $$
 \mathrm{B^{-}(aq)} + \mathrm{H_{2}O(l) }
-~~\xrightleftharpoons{~~~}~~
+~~=~~
 \mathrm{HB(aq)}  + \mathrm{OH^{-}(aq)} 
 $$
 
@@ -126,7 +126,7 @@ Equation (5.4) tells us an extremely important reality that there is no need to 
 
 $$
 \mathrm{ HCl(aq) } + \mathrm{H_2O(l) } 
-~~\xrightleftharpoons{~}{~} ~~
+~~= ~~
 \mathrm{Cl^{-}(aq)} + \mathrm{H_{3}O^{+}(aq)} 
 $$
 
@@ -145,7 +145,7 @@ Chemically, this result is reasonable. Now, we go to another special case: the d
 
 $$
 \mathrm{NaOH(aq)} + \mathrm{H_2O(l) } 
-~~\xrightleftharpoons{~~~}~~
+~~=~~
 \mathrm{OH^{-}(aq)} + \mathrm{Na^{+}(aq)} +  \mathrm{H_2O(l) }
 $$
 
@@ -153,22 +153,14 @@ Thus,
 
 $$
 \mathrm{NaOH(aq)} 
-~~\xrightleftharpoons{~~~}~~
+~~=~~
 \mathrm{OH^{-}(aq)} + \mathrm{Na^{+}(aq)} 
 $$
 
 We get:
 
 $$
-K_{\text{b} }(\mathrm{NaOH}) = 
-\frac{\frac{[\mathrm{Na^{+} }]}{c^{\circleddash}} 
-\frac{[\mathrm{OH^{-}}]}{c^{\circleddash}}  }
-{\frac{[\mathrm{NaOH}]}{c^{\circleddash}}} 
-= 
-\frac{\frac{[\mathrm{Na^{+} }]}{c^{\circleddash}} 
-\frac{[\mathrm{OH^{-}}]}{c^{\circleddash}}  }
-{\frac{0}{c^{\circleddash}}} 
-= \infty
+K_{\text{b} }(\mathrm{NaOH}) = \frac{ \frac{[\mathrm{OH^{-}}]}{c^{\circleddash} } \times{} \frac{[\mathrm{Na^{+}}]}{c^{\circleddash} }    }{ \frac{ [\mathrm{NaOH} ] }{ c^{\circleddash} }  } = \frac{ \frac{[\mathrm{OH^{-}}]}{c^{\circleddash} } \times{} \frac{[\mathrm{Na^{+}}]}{c^{\circleddash} }    }{ \frac{ 0}{ c^{\circleddash} }  } = \infty
 $$
 
 Logically, this result is also reasonable. Now, if we define $K_{\text{a} }(\mathrm{NaOH})$, and let 
