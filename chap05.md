@@ -51,8 +51,7 @@ The theory is very perfect because there can be no more logical and practical co
 The ability of acid to provide protons is characterized by the acid dissociation constant. This constant is essentially the equilibrium constant at which acid dissociation reaches equilibrium. When an acid $\mathrm{HB}$ is dissolved in water, following equilibrium will be reached:
 
 $$
-\mathrm{HB(aq) + H_2O(l) ~~=~~ 
-B^{-}(aq) + H_{3}O^{+}(aq)   }
+\mathrm{HB(aq) + H_2O(l) ~~=~~ B^{-}(aq) + H_{3}O^{+}(aq)   }
 $$
 
 The equilibrium constant can be expressed as follows:
@@ -144,17 +143,13 @@ $$
 Chemically, this result is reasonable. Now, we go to another special case: the dissociation of sodium hydroxide in water. Following is the equilibrium equation:
 
 $$
-\mathrm{NaOH(aq)} + \mathrm{H_2O(l) } 
-~~=~~
-\mathrm{OH^{-}(aq)} + \mathrm{Na^{+}(aq)} +  \mathrm{H_2O(l) }
+\mathrm{NaOH(aq)} + \mathrm{H_2O(l) } ~~=~~\mathrm{OH^{-}(aq)} + \mathrm{Na^{+}(aq)} +  \mathrm{H_2O(l) }
 $$
 
 Thus,
 
 $$
-\mathrm{NaOH(aq)} 
-~~=~~
-\mathrm{OH^{-}(aq)} + \mathrm{Na^{+}(aq)} 
+\mathrm{NaOH(aq)} ~~=~~\mathrm{OH^{-}(aq)} + \mathrm{Na^{+}(aq)} 
 $$
 
 We get:
